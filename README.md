@@ -1,2 +1,3 @@
 # hello-world
-Initial "project" to get going with github
+
+I am trying out github.  
